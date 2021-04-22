@@ -21,9 +21,9 @@ def randomize(text, *texts):
 
 sg.theme('DarkAmber')   # Add a touch of color
 # All the stuff inside your window.
-layout =   [[sg.Text('first text'),sg.Multiline(key="input-1",size=(50,10), tooltip="Mettre le premier texte à cut up ici")],
-            [sg.Text('second text'), sg.Multiline(key="input-2", size=(50, 10), tooltip="(optionnel) Mettre le second texte à cut up ici")],
-            [sg.Text("resultat: "),sg.Multiline(size=(50,10), key="--RES--")],
+layout =   [[sg.Text('first text'),sg.Multiline(key="input-1",size=(50,5), tooltip="Mettre le premier texte à cut up ici")],
+            [sg.Text('second text'), sg.Multiline(key="input-2", size=(50, 5), tooltip="(optionnel) Mettre le second texte à cut up ici")],
+            [sg.Text("resultat: "),sg.Multiline(size=(50,5), key="--RES--")],
             [sg.Button('Cut up'), sg.Button('Cancel')], [sg.Text("by Alexandre W")]]
 
 # Create the Window
