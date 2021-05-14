@@ -16,3 +16,8 @@ or
 ```
 pip install pysimplegui
 ```
+
+then run 
+```
+python main.py
+```
