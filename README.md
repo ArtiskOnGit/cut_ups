@@ -1,6 +1,6 @@
 # cut_ups
 
-This is a little project to remake the program David Bowie used to right lyrics, see : https://www.youtube.com/watch?v=6nlW4EbxTD8
+This is a little project to remake the program David Bowie used to write lyrics, see : https://www.youtube.com/watch?v=6nlW4EbxTD8
 
 
 see deployed version on https://replit.com/@ArtiskOnGit/cutups
